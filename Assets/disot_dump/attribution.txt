@@ -1,0 +1,46 @@
+Blocks and water from "8x8 Adventure Tileset (In_Progress)" by Fantasy_Origins
++-> https://opengameart.org/content/8x8-adventure-tileset-inprogress
++-> CC-BY 3.0
+\-> https://opengameart.org/users/fantasyorigins
+
+Grass from "[8x8] Platformer Tileset: Candy Land" by MadByte
++-> https://opengameart.org/content/8x8-platformer-tileset-candy-land
++-> CC-BY 3.0
+\-> https://opengameart.org/users/madbyte
+
+The main character is based on the archer and the door is from "RogueDB32" by SpiderDave
++-> https://opengameart.org/content/roguedb32
++-> CC0
+\-> https://opengameart.org/users/spiderdave
+
+The leg animation of the main character is based on "8x8, 12x12 platformer sprites") by suve
++-> https://opengameart.org/content/8x8-12x12-platformer-sprites
++-> CC-BY-SA 4.0
+\-> https://opengameart.org/users/suve
+
+The collect animation is based on "Pixel Adventure 1" by Pixel Frog
++-> https://opengameart.org/content/pixel-adventure-1
++-> CC-BY 4.0
+\-> https://opengameart.org/users/pixel-frog
+
+The header font used in the main menu is "16x16 Studded Metal Fonts" by Jerom
++-> https://opengameart.org/content/16x16-studded-metal-fonts
++-> CC-BY 3.0
+\-> https://opengameart.org/users/jerom
+
+The item font used in the main menu is "Small blocky font" by Jerom
++-> https://opengameart.org/content/small-blocky-font
++-> CC-BY 3.0
+\-> https://opengameart.org/users/jerom
+
+The open jam splash is based on "Open Jam brand images" by Open Jam
++-> http://openjam.io/brand/
++-> CC-BY-SA 4.0
+\-> http://openjam.io/
+
+The salto animation as well as the enemies are based on "8-Bit Ninja" by LD
++-> https://opengameart.org/content/8-bit-ninja-0
++-> OGA-BY 3.0
+\-> https://opengameart.org/users/ld
+
+More probably compatible assets can be found in this collection: https://opengameart.org/content/disot-assets
